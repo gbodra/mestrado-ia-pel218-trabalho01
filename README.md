@@ -23,4 +23,4 @@ Após esta preparação o corpus continha 14.779.320 de palavras, porém muitas 
 
 Analisando o corpus pela frequência de palavras temos a lista abaixo com as 25 mais frequentes:
 
-![alt text](./images/frequent_words.png “Logo Title Text 1”)
+![alt text](https://raw.githubusercontent.com/gbodra/mestrado-ia-pel218-trabalho01/main/images/frequent_words.png “Logo Title Text 1”)
