@@ -39,7 +39,7 @@ def plot_histogram(list_to_plot, title, filename):
     # add labels
     plt.xticks(indexes + bar_width, labels, rotation=90)
     plt.title(title)
-    plt.show()
+    # plt.show()
     plt.savefig("./images/" + filename)
 
 
